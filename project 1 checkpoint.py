@@ -73,3 +73,5 @@ plt.tight_layout()
 plt.savefig("plot_nova_combined.png", dpi=180, bbox_inches="tight")
 plt.close()
 print("Saved plot_nova_combined.png")
+
+# boxplots removed
